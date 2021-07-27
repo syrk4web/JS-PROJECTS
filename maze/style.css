@@ -43,6 +43,17 @@ h1 {
   background: center / contain no-repeat;
 }
 
+#maze--controlers {
+  background-color: rgb(197, 217, 226);
+  display: flex;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+#maze--controlers p {
+  margin: 0.5rem 1rem;
+}
+
 .wall {
   background-color: rgb(25, 32, 36);
 }
